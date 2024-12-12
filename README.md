@@ -1,2 +1,3 @@
 # IOT-Dashboard
-I developed this website using  HTML , CSS and Javascript 
+I developed this 
+Project using  HTML , CSS and Javascript 
